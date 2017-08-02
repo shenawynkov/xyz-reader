@@ -4,6 +4,3 @@ This repository stores the starter code for the XYZ Reader project in Udacity's 
 
 ## Screens
 
-![Screenshot](Screenshot_2017-07-31-11-57-28.png)
-
-![Screenshot](Screenshot_2017-07-31-11-57-42.png)
